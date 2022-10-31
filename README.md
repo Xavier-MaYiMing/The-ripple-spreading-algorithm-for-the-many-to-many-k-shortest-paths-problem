@@ -23,7 +23,7 @@
 
 #### Example
 
-![many-to-many k shortest paths problem](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the many-to-many k shortest paths problem\many-to-many k shortest paths problem.png)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-many-to-many-k-shortest-paths-problem/blob/main/many-to-many%20k%20shortest%20paths%20problem.png)
 
 The source nodes are 0 and 1, and the destination nodes are 10 and 11. The aim is to determine the three shortest paths from every source node to destination nodes.
 
